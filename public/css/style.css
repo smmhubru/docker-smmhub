@@ -1,0 +1,18 @@
+#header-section {
+    margin-top: 60px;
+    position: relative;
+    min-height: 500px;
+    background: url('../img/header02.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#header-section .dark-overlay {
+ 
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 500px;
+    background: rgba(0, 0, 0, 0.6);
